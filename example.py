@@ -25,3 +25,4 @@ if __name__ == "__main__":
             break
     #开始视频壁纸
     VideoWallpaper.RunVideoWallpaper(player_window_handel)
+    
